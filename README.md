@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Sanchay 👋<br><br>I'm a CS undergraduate at IIIT-Delhi, currently in my 4th semester.<br>I enjoy solving algorithmic problems and exploring AI/ML—especially areas like transformers, RAG, and diffusion models.<br><br>Always learning, always building 🚀
+# About Me:
+Hi there, I'm Sanchay 👋<br><br>I'm a CS undergraduate, currently in my 4th semester.<br>I enjoy solving algorithmic problems and exploring AI/ML—especially areas like transformers, RAG, and diffusion models.<br><br>Always learning, always building 🚀
 
 
 ## 🌐 Socials:
