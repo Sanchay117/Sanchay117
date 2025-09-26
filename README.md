@@ -1,3 +1,5 @@
+[![An image of @sanchay117's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchay117)](https://holopin.io/@sanchay117)
+
 # About Me:
 Hi there, I'm Sanchay 👋<br><br>I'm a CS undergraduate, currently in my 5th semester.<br>I enjoy solving algorithmic problems and exploring AI/ML—especially areas like transformers, RAG, and diffusion models.<br><br>Always learning, always building 🚀
 
