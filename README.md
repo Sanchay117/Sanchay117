@@ -2,10 +2,10 @@
 
 # About Me:
 
-Hi, I'm Sanchay<br>
-I’m a Computer Science undergraduate in my 5th semester who enjoys building intelligent systems and understanding how they work under the hood.<br><br>
+Hi, I'm Sanchay.<br>
+I’m a Computer Science undergraduate in my 5th semester who enjoys building intelligent systems and understanding how they work under the hood.<br>
 
-My current interests revolve around machine learning and AI, especially transformers, retrieval-augmented generation (RAG), and diffusion models. I like experimenting with architectures, optimizing implementations, and pushing projects from concept to working prototypes.<br><br>
+My current interests revolve around machine learning and AI, especially transformers, retrieval-augmented generation (RAG), and diffusion models. I like experimenting with architectures, optimizing implementations, and pushing projects from concept to working prototypes.<br>
 
 I’m also active in open-source development, contributing to projects that make complex ML ideas practical and accessible.
 
