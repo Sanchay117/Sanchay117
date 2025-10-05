@@ -1,7 +1,13 @@
 [![An image of @sanchay117's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchay117)](https://holopin.io/@sanchay117)
 
 # About Me:
-Hi there, I'm Sanchay 👋<br><br>I'm a CS undergraduate, currently in my 5th semester.<br>I enjoy solving algorithmic problems and exploring AI/ML especially areas like transformers, RAG, and diffusion models.<br><br>Always learning, always building 🚀
+
+Hi, I'm Sanchay<br>
+I’m a Computer Science undergraduate in my 5th semester who enjoys building intelligent systems and understanding how they work under the hood.<br><br>
+
+My current interests revolve around machine learning and AI, especially transformers, retrieval-augmented generation (RAG), and diffusion models. I like experimenting with architectures, optimizing implementations, and pushing projects from concept to working prototypes.<br><br>
+
+I’m also active in open-source development, contributing to projects that make complex ML ideas practical and accessible.
 
 
 ## 🌐 Socials:
